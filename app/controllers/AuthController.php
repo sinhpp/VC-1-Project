@@ -1,5 +1,5 @@
-// app/controllers/AuthController.php
 require_once '../app/models/User.php';
+
 
 class AuthController {
     public function register() {
